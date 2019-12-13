@@ -7,4 +7,4 @@ For my Machine Learning final, I created both a demo implementation of using LDA
 
 [Implementation Co-Lab Notebook](LDATopicAnalysis.ipynb)
 
-[Final Poster](ML Poster.pdf)
+![Final Poster](MLPoster.png)
